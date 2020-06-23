@@ -3,7 +3,7 @@
 }
 
 .result-score {
-  font-size: 14px;
+  font-size: 0.8rem;
 }
 .date-time {
   margin-top: 5px;
@@ -14,4 +14,12 @@
 }
 .game-title {
   margin-bottom: 2rem;
+
+}
+.display-block {
+  display: block;
+}
+
+.auto-margin {
+  margin:auto;
 }
